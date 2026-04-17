@@ -143,8 +143,3 @@ Makes **open violations and assessment data** easier to browse together and show
 **Conclusion:** Parcel-level joins plus regression summarize enforcement vs roll values; grid maps highlight spatial risk. **Recommendation:** Refresh **`data/raw/`** when **data.syr.gov** updates; pull large GeoJSON locally for Track B if missing from the repo.
 
 ---
-
-## Author / links
-
-- **Portfolio:** [mydatasciencegallery.shinyapps.io](https://mydatasciencegallery.shinyapps.io/)  
-- **LinkedIn:** [linkedin.com/in/hariramselvaraj](https://www.linkedin.com/in/hariramselvaraj/)
