@@ -1,0 +1,17 @@
+file,ext,year_guess,part_guess,rows,has_geometry,lat_col,lon_col,date_col,qol_col,usable_for_spatial_ml,notes
+2022_part_offence.geojson,.geojson,2022.0,,6709,False,QualityOfLife,,DATEEND,QualityOfLife,False,No geometry and no lat/lon columns detected
+Assessment_Final_Roll_2010__-7081549906218298349.geojson,.geojson,2010.0,,42042,False,Property_Address,PO_Box,,,False,No date column detected
+Assessment_Final_Roll_2018__4637673116900058062.geojson,.geojson,2018.0,,41760,False,Property_Address,PO_Box,,,False,No date column detected
+Code_Violations_V2.geojson,.geojson,,,140726,True,Latitude,Longitude,open_date,,True,OK
+Crime_Data_2017_(Part_1_Offenses).geojson,.geojson,2017.0,,5628,False,LarcenyCode,,DATEEND,,False,No geometry and no lat/lon columns detected
+Crime_Data_2018_-_Part_1_Offenses_(With_Lat_%26_Long_Info).geojson,.geojson,2018.0,,5431,True,geometry,,DATEEND,,True,OK
+Crime_Data_2019_(Part_2_Offenses).geojson,.geojson,2019.0,,9207,False,QualityOfLife,,DATEEND,QualityOfLife,False,No geometry and no lat/lon columns detected
+Crime_Data_2020_Part_1_Offenses.geojson,.geojson,2020.0,,5266,False,LarcenyCode,,DATEEND,,False,No geometry and no lat/lon columns detected
+Crime_Data_2021_(Part_1_Offenses).geojson,.geojson,2021.0,,5129,False,LarcenyCode,,DATEEND,,False,No geometry and no lat/lon columns detected
+Crime_Data_2021_(Part_2_Offenses).geojson,.geojson,2021.0,,6949,False,QualityOfLife,,DATEEND,QualityOfLife,False,No geometry and no lat/lon columns detected
+Crime_Data_2022_-_Part_1_Offenses_(With_Lat___Long_Info).geojson,.geojson,2022.0,,5660,True,Y,X,USER_DATEEND,,True,OK
+Crime_Data_2023_-_Part_1_Offenses_(With_Lat_%26_Long_Info).geojson,.geojson,2023.0,,6633,True,LAT,LONG,DATEEND,,True,OK
+Crime_Data_2023_Part_2_Offenses_With_Lat_and_Long.geojson,.geojson,2023.0,,6693,True,LAT,LONG,DATEEND,QualityOfLife,True,OK
+Crime_Data_2024_Part_1_Offenses_With_Lat_and_Long_Info.geojson,.geojson,2024.0,,7128,True,LAT,LONG,DATEEND,,True,OK
+Crime_Data_2024_Part_2_Offenses_With_Lat_and_Long_Info.geojson,.geojson,2024.0,,6693,True,LAT,LONG,DATEEND,QualityOfLife,True,OK
+Weekly_Part_2_Crime_Offenses_2018.geojson,.geojson,2018.0,,3634,False,QualityOfLife,,DATE,QualityOfLife,False,No geometry and no lat/lon columns detected
